@@ -1,0 +1,28 @@
+{
+  "name": "graphql-talk",
+  "version": "1.0.0",
+  "description": "Awesome graphql talk ",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bmgaynor/graphql-talk.git"
+  },
+  "keywords": [
+    "graphql",
+    "mdx",
+    "typescript"
+  ],
+  "author": "Bradley Gaynor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bmgaynor/graphql-talk/issues"
+  },
+  "homepage": "https://github.com/Bmgaynor/graphql-talk#readme",
+  "devDependencies": {
+    "mdx-deck": "^4.1.1"
+  }
+}
