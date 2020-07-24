@@ -1,7 +1,7 @@
 {
   "name": "graphql-talk",
   "version": "1.0.0",
-  "description": "Awesome graphql talk ",
+  "description": "Awesome graphql talk",
   "main": "index.js",
   "scripts": {
     "start": "mdx-deck deck.mdx",
